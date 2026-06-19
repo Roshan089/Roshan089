@@ -23,7 +23,7 @@ Building scalable SaaS platforms, cloud-native backend systems, and AI-powered a
 
 ## About
 
-Senior Software Developer with 1.5+ years building production backend systems and AI-powered applications. Currently architecting a multi-tenant SaaS platform — designing HLD/LLD, scalable REST APIs, and RAG-based document retrieval systems serving real users in production.
+Senior Software Developer with 2+ years building production backend systems and AI-powered applications. Currently architecting a multi-tenant SaaS platform — designing HLD/LLD, scalable REST APIs, and RAG-based document retrieval systems serving real users in production.
 
 Focused on system design, vector search, and agentic AI architectures.
 

@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi, I'm Roshan 👋
-
-### Software Engineer | Full Stack & AI Systems
+### Software Engineer · Full Stack & AI Systems
 
 Building scalable SaaS platforms, cloud-native backend systems, and AI-powered applications.
 
@@ -22,126 +21,74 @@ Building scalable SaaS platforms, cloud-native backend systems, and AI-powered a
 
 ---
 
-## 🚀 About Me
+## About
 
-```yaml
-Name: Roshan
-Role: Software Engineer
-Experience: 1.7+ Years
+Senior Software Developer with 1.5+ years building production backend systems and AI-powered applications. Currently architecting a multi-tenant SaaS platform — designing HLD/LLD, scalable REST APIs, and RAG-based document retrieval systems serving real users in production.
 
-Specialization:
-  - Full Stack Development
-  - AI-Powered Applications
-  - RAG Pipelines
-  - Backend Architecture
-  - Cloud-Native Systems
-
-Current Focus:
-  - Agentic AI Systems
-  - Vector Search
-  - System Design
-  - Scalable SaaS Platforms
-```
+Focused on system design, vector search, and agentic AI architectures.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### Languages
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-</p>
-
-### Frontend
-
-<p>
+**Frontend**
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
 
-### Backend
+**Backend**
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
-</p>
-
-### Database & Cloud
-
-<p>
+**Database & Cloud**
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws" />
-</p>
 
-### Tools
-
-<p>
+**Tools**
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
 
 ---
 
-## 🌟 Featured Project
+## Featured project
 
-### SOPSage — AI-Powered SOP Management Platform
+### SOPSage — AI-powered SOP management platform
+Production B2B SaaS platform for intelligent document management and semantic search. Live at [sopsage.com](https://sopsage.com)
 
-Production-ready B2B SaaS platform for intelligent document management and knowledge retrieval.
+- Architected RAG-based semantic search with PostgreSQL + pgvector
+- Built multi-tenant architecture with role-based access control
+- Implemented git-style document versioning and audit history
+- Designed scalable FastAPI backend serving 50+ active users across 2 clients
 
-#### Highlights
-
-* 🤖 AI-powered semantic search using RAG architecture
-* 📚 Vector search with PostgreSQL + pgvector
-* 🔄 Git-style document versioning & audit history
-* 🔐 Multi-tenant architecture with RBAC
-* ⚡ FastAPI backend with scalable API design
-
-**Tech Stack:** FastAPI • PostgreSQL • pgvector • OpenAI • Next.js • AWS
+**Stack:** FastAPI · PostgreSQL · pgvector · OpenAI API · Next.js · AWS S3
 
 ---
 
-## 📈 Impact
+## Impact
 
-* 🚀 Reduced API response time by 40% using Redis caching
-* 📊 Built AI document retrieval pipelines for production workloads
-* 👥 Leading backend initiatives within a 6-engineer team
-* 💡 Solved 400+ DSA problems
+- Architected backend systems with HLD/LLD for a 6-engineer team, achieving 60% faster onboarding
+- Reduced API latency by 30–40% using Redis caching and async processing
+- Cut deployment time by 80% through CI/CD automation with GitHub Actions
+- Achieved 99.9% uptime SLA on production AWS ECS infrastructure
+- Solved 400+ DSA problems across coding platforms
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub stats
 
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Roshan089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan089&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan089&theme=tokyonight&hide_border=true"/>
-
 </div>
-
----
-
-## 🎯 2026 Goals
-
-* Build production-grade AI agents
-* Master distributed systems
-* Contribute to open source
-* Reach 600+ DSA problems
-* Scale AI products to thousands of users
 
 ---
 
 <div align="center">
 
-### Let's Connect
+**Let's connect**
 
-📧 **[roshan742587@gmail.com](mailto:roshan742587@gmail.com)**
-
-💼 **LinkedIn:** linkedin.com/in/roshan-singh-184a16282
-
-🌐 **Portfolio:** https://sopsage.com
+📧 [roshan742587@gmail.com](mailto:roshan742587@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/roshan-singh-184a16282) · 🌐 [sopsage.com](https://sopsage.com)
 
 </div>
